@@ -6,7 +6,7 @@
 Git's cherry-pick feture was very usfull for me when performing hot fixeses, I have documented the same for others and myself.
 
 
-[Link to doc 👈](https://github.com/suvel/2023_blog/blob/main/react_hashrouter_keyclock.md)
+[Link to doc 👈](https://github.com/suvel/2023_blog/blob/main/git_cherry-pick%20.md)
 
 
 ### 🚥 4-2-2023
