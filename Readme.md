@@ -1,5 +1,14 @@
 # Helpful Blog 📯
 
+### 🚥 07-23-2023
+
+##### Exploring HTML 
+Git's cherry-pick feture was very usfull for me when performing hot fixeses, I have documented the same for others and myself.
+
+
+[Link to doc 👈](https://github.com/suvel/2023_blog/blob/main/react_hashrouter_keyclock.md)
+
+
 ### 🚥 4-2-2023
 
 ##### React, HashRouter & Keyclock
